@@ -1,7 +1,6 @@
 # quiz_app
 
-A new Flutter project.
-
+The Quiz App aims to make learning fun and interactive. Whether you're looking to test your knowledge or challenge your friends, this app provides a seamless experience for users of all ages. Join now and start quizzing!
 ## Getting Started
 
 This project is a starting point for a Flutter application.
